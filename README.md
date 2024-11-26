@@ -18,6 +18,4 @@ To learn more about the Banker's Algorithm, you can visit [this link](https://ww
 
 You can find an example of the Banker's Algorithm simulation in the `Input_Output.pdf` file. It includes the input and output screenshots of the simulation.
 
-## Deployment
 
-The project has been deployed and you can access it [here](https://arunimabarik75.github.io/Bankers-Algorithm/).
